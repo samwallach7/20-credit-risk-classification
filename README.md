@@ -23,4 +23,4 @@ Machine Learning Model 1:
 
 Summary
 
-Based on the results from the machine learning model, you can see the model strongly predicting the healthy loans while not being as effective in predicting the high_risk loans. As the model currently stands, I would not recommend the usage by the company. This is rooted in wanting the see the model be a stronger predictor of high-risk loans, as these can become financial strains on a loan provider if not properly identified during the loan application process.
+Based on the results from the machine learning model, you can see the model strongly predicting the healthy loans while not being as effective in predicting the high-risk loans. As the model currently stands, I would not recommend the usage by the company. This is rooted in wanting the see improvements to the model to be a stronger predictor of high-risk loans, as these can become financial strains on a loan provider if not properly identified during the loan application process.
